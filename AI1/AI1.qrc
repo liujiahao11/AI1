@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/AI1">
+        <file>Resources/1141878.png</file>
+        <file>Resources/1202514.png</file>
+        <file>Resources/1204905.png</file>
+        <file>Resources/run.png</file>
+        <file>Resources/background.jpg</file>
+        <file>Resources/back.jpg</file>
+    </qresource>
+</RCC>
